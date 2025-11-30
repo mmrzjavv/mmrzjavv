@@ -48,9 +48,9 @@ Passionate about clean architecture, maintainable code, performance optimization
 
 ## 📈 GitHub Stats
 
-![Mohammadreza’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mmrzjavv&show_icons=true&theme=tokyonight&count_private=true)
+![Mohammadreza’s GitHub stats](https://github-readme-stats-nu-olive.vercel.app/api?username=mmrzjavv&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmrzjavv&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-nu-olive.vercel.app/api/top-langs/?username=mmrzjavv&layout=compact&theme=tokyonight)
 
 ---
 
