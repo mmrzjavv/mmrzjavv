@@ -12,7 +12,7 @@ Passionate about clean architecture, maintainable code, performance optimization
 - 🌱 Learning **Distributed Systems**, **Advanced .NET**, and **Cloud (Azure)**  
 - 🧪 Interested in building high-quality services using **Clean Architecture + CQRS**  
 - 💬 Ask me about C#, .NET, Web APIs, EF Core, SQL Server, Clean Architecture  
-- 📍 Based in Iran  
+- 📍 Based in Iran
 - 🎯 Goal: Build better systems, create technical content, and share useful .NET projects
 
 ---
@@ -35,7 +35,7 @@ Passionate about clean architecture, maintainable code, performance optimization
 
 ### Databases  
 - SQL Server  
-- PostgreSQL (basics)
+- PostgreSQL 
 
 ### Tools & Practices  
 - Clean Architecture  
@@ -75,7 +75,7 @@ Passionate about clean architecture, maintainable code, performance optimization
 ## 📌 What I’m Focused On Right Now
 
 - Improving architecture + testing skills in real-world .NET services  
-- Building clean, maintainable code using **Cursor IDE**  
+- Building clean, maintainable code
 - Studying languages & preparing for my online master’s path  
 - Creating short, useful technical content about backend development
 
