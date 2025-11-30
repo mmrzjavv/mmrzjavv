@@ -1,5 +1,5 @@
 # Hi there, I’m Mohammadreza Javaheri 👋  
-### .NET Backend Engineer| Distributed Systems Enthusiast
+### .NET Backend Engineer | Distributed Systems Enthusiast
 
 I’m a Dotnet Core programmer with 4.5+ years of experience building clean, reliable, and scalable backend services.  
 Passionate about clean architecture, maintainable code, performance optimization, and building systems that feel “production-ready”.
@@ -19,8 +19,8 @@ Passionate about clean architecture, maintainable code, performance optimization
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehrad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mmrzjavv)  
-[![Email](https://img.shields.io/badge/Email-mmrzjavv%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mmrzjavv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammadreza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mmrzjavv)  
+[![Email](https://img.shields.io/badge/Email-mohammad.r.javaheri%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mohammad.r.javaheri@gmail.com)
 
 ---
 
@@ -48,7 +48,7 @@ Passionate about clean architecture, maintainable code, performance optimization
 
 ## 📈 GitHub Stats
 
-![Mehrad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mmrzjavv&show_icons=true&theme=tokyonight&count_private=true)
+![Mohammadreza’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mmrzjavv&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmrzjavv&layout=compact&theme=tokyonight)
 
