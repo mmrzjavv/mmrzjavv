@@ -1,50 +1,44 @@
-# Hi there, I’m Mohammadreza Javaheri 👋  
-### .NET Backend Engineer | Distributed Systems Enthusiast
+Hi there, I’m **Mohammadreza Javaheri** 👋  
+### **Senior .NET Backend Engineer | Microservices & Distributed Systems Specialist**
 
-I’m a Dotnet Core programmer with 4.5+ years of experience building clean, reliable, and scalable backend services.  
-Passionate about clean architecture, maintainable code, performance optimization, and building systems that feel “production-ready”.
-
----
-
-## 📌 About Me
-
-- 🔭 Currently working as a **.NET Backend Developer**  
-- 🌱 Learning **Distributed Systems**, **Advanced .NET**, and **Cloud (Azure)**  
-- 🧪 Interested in building high-quality services using **Clean Architecture + CQRS**  
-- 💬 Ask me about C#, .NET, Web APIs, EF Core, SQL Server, Clean Architecture  
-- 📍 Based in Iran
-- 🎯 Goal: Build better systems, create technical content, and share useful .NET projects
+Backend engineer with 4+ years of experience building **enterprise-grade distributed systems** using .NET, Microservices, CQRS, and event‑driven architecture.  
+Specialized in **high‑performance financial systems**, clean architecture, DDD, and secure, scalable backend services.
 
 ---
 
-## 🔗 Connect with Me
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammadreza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mmrzjavv)  
-[![Email](https://img.shields.io/badge/Email-mohammad.r.javaheri%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mohammad.r.javaheri@gmail.com)
+- Senior Backend Engineer at **Sadad (Bank Melli Iran)**
+- Architecting large-scale **financial & tax compliance platforms**
+- Expert in **Microservices, CQRS, DDD, Event‑Driven Design**
+- Focused on performance, scalability, and system reliability
+- Learning **Azure / Kubernetes / gRPC**
+- Passionate about building production-ready enterprise systems
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Frameworks  
-- C#, .NET, ASP.NET Core  
-- Entity Framework Core  
-- IdentityServer / JWT Auth  
-- Hangfire  
-- Minimal APIs / RESTful Design
+### **Core Backend**
+- C#, ASP.NET Core (.NET 9/8/7)
+- EF Core, Dapper
+- Clean Architecture, DDD, CQRS, MediatR
+- gRPC, REST, Minimal APIs
 
-### Databases  
-- SQL Server  
-- PostgreSQL 
+### **Distributed Systems**
+- Kafka, RabbitMQ  
+- Event‑Driven Architecture  
+- High‑volume transaction processing
 
-### Tools & Practices  
-- Clean Architecture  
-- CQRS  
-- Git & GitHub  
+### **Databases**
+- SQL Server, PostgreSQL  
+- Redis (Caching / Pub‑Sub)
+
+### **DevOps / Tools**
 - Docker  
-- Unit Testing (xUnit)
+- Git & GitHub  
+- Logging & Observability practices
 
----
 
 ## 📈 GitHub Stats
 
@@ -54,31 +48,7 @@ Passionate about clean architecture, maintainable code, performance optimization
 
 ---
 
-## 🚀 Featured Projects
+## 🔗 Connect with Me
 
-### 🔹 Identity Service  
-**A production-ready identity and authentication service built with Clean Architecture**  
-- Features: JWT, Refresh Token, Identity Management, CQRS Patterns  
-- Tech: .NET, C#, EF Core, SQL Server  
-👉 Repo: https://github.com/mmrzjavv/Identity-service
-
----
-
-### 🔹 Hangfire Service  
-**Background job processing service with clean architecture and proper Hangfire configuration**  
-- Features: Queues, Scheduled Jobs, Dashboard, Service Layer  
-- Tech: .NET, Hangfire, SQL Server  
-👉 Repo: https://github.com/mmrzjavv/HangfireService
-
----
-
-## 📌 What I’m Focused On Right Now
-
-- Improving architecture + testing skills in real-world .NET services  
-- Building clean, maintainable code
-- Studying languages & preparing for my online master’s path  
-- Creating short, useful technical content about backend development
-
----
-
-Thanks for stopping by! 🌱
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammadreza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mmrzjavaheri-mohammadi)  
+[![Email](https://img.shields.io/badge/Email-mohammad.r.javaheri%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mohammad.r.javaheri@gmail.com)
